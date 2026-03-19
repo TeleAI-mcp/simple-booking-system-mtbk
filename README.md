@@ -1,2 +1,3 @@
-# simple-booking-system-mtbk
-Automated issue comment bot repository
+# Simple Booking System Mtbk
+
+Automated issue comment bot repository.
